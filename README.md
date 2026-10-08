@@ -40,7 +40,7 @@ Graduate research exploring system reliability under hardware faults and cyberat
 ## Education
 - M.S. Computer Engineering: University of Massachusetts Dartmouth (Expected December 2026)
 - Graduate Certificate in Cybersecurity: University of Massachusetts Dartmouth
-- B.S. Computer Science: University of Malawi
+- B.S. Computer Science: The University of Malawi, Chancellor College
 
 ## Let's Connect
 I'm interested in entry-level opportunities in cybersecurity GRC, IT risk, security compliance, and cloud security.
