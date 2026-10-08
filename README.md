@@ -38,9 +38,9 @@ Graduate research exploring system reliability under hardware faults and cyberat
 **Research & Analysis:** Reliability modeling, fault-tree analysis, binary decision diagrams
 
 ## Education
-- M.S. Computer Engineering — University of Massachusetts Dartmouth (Expected December 2026)
-- Graduate Certificate in Cybersecurity — University of Massachusetts Dartmouth
-- B.S. Computer Science — University of Malawi
+- M.S. Computer Engineering: University of Massachusetts Dartmouth (Expected December 2026)
+- Graduate Certificate in Cybersecurity: University of Massachusetts Dartmouth
+- B.S. Computer Science: University of Malawi
 
 ## Let's Connect
 I'm interested in entry-level opportunities in cybersecurity GRC, IT risk, security compliance, and cloud security.
