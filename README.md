@@ -16,7 +16,7 @@ My interests include cybersecurity governance, IT risk assessment, security cont
 
 ## Featured Projects
 
-### CloudShield Technologies — Cybersecurity GRC Assessment
+### CloudShield Technologies: Cybersecurity GRC Assessment
 An independent, simulated SaaS company security assessment covering risk registers, NIST CSF 2.0 control mapping, security policies, third-party risk, and executive reporting.
 
 ### Task Management REST API
