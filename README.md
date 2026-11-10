@@ -1,39 +1,44 @@
 
-# Hi, I'm Elizabeth Kapusa! 
+# Hello, I'm Elizabeth!
 
-### Computer Engineering | Cybersecurity | GRC | Cloud Engineering
+**Computer Engineering | Cybersecurity | Governance, Risk & Compliance | Cloud Engineering**
 
-I'm a Master's student in Computer Engineering at the University of Massachusetts Dartmouth, graduating in December 2026. I hold a Graduate Certificate in Cybersecurity and have professional experience in cloud engineering using AWS and Microsoft Azure.
+I'm a Computer Engineering graduate student at the University of Massachusetts Dartmouth, completing my Master's degree in December 2026. I also hold a Graduate Certificate in Cybersecurity.
 
-My interests include cybersecurity governance, risk assessment, security compliance, cloud infrastructure, and secure software development.
+My professional background includes cloud engineering, technical research, and graduate teaching. I have experience working with AWS, Microsoft Azure, Python, and technical infrastructure, alongside academic and independent projects focused on cybersecurity and risk management.
 
-## Education
-- M.S. Computer Engineering — University of Massachusetts Dartmouth (Expected December 2026)
-- Graduate Certificate in Cybersecurity — University of Massachusetts Dartmouth
+## Areas of Interest
 
-## Professional Background
-- Graduate Teaching Assistant — University of Massachusetts Dartmouth
-- Research Assistant — University of Massachusetts Dartmouth (Summer 2026)
-- Junior Cloud Engineer / Developer — SMAG Media
-
-## Technical Skills
-- Cybersecurity: NIST CSF 2.0, Risk Assessment, IAM, Security Controls, Third-Party Risk
-- Cloud: AWS, Microsoft Azure
-- Programming: Python, SQL, PowerShell, Verilog
-- Tools: Git, Docker, Linux, Excel
+- Cybersecurity Governance, Risk, and Compliance (GRC)
+- IT Risk Assessment and Security Controls
+- NIST Cybersecurity Framework 2.0
+- Cloud Security and Infrastructure
+- Security Auditing and Compliance
+- Vulnerability and Third-Party Risk Management
 
 ## Featured Projects
 
 ### Cybersecurity GRC Portfolio
-A portfolio built around a fictional SaaS organization, featuring a cybersecurity risk register, NIST CSF 2.0 control mapping, security policies, and vendor risk assessment.
 
-[View Project](https://github.com/elizabethkapusa-commits/cybersecurity-grc-portfolio)
+An independent risk assessment and compliance portfolio developed around a fictional cloud-based SaaS organization. Includes a risk register, NIST CSF 2.0 mapping, security policies, control recommendations, and third-party risk assessment.
 
 ### Task Management REST API
-A Python REST API demonstrating authentication, role-based access control, database integration, testing, and Docker.
 
-[View Project](https://github.com/elizabethkapusa-commits/task-api)
+A Python-based API project demonstrating authentication, role-based access control, database integration, testing, and containerization.
 
-## Connect
+## Technical Skills
+
+**Cloud:** AWS, Microsoft Azure
+
+**Programming:** Python, SQL, Verilog, PowerShell
+
+**Cybersecurity:** NIST CSF 2.0, Risk Assessment, Security Controls, IAM, Vulnerability Management
+
+**Tools:** Git, GitHub, Linux, Docker, Microsoft Excel
+
+## Connect With Me
+
 [LinkedIn](https://www.linkedin.com/in/elizabeth-kapusa-59349b273/)
+
+[GitHub](https://github.com/elizabethkapusa-commits)
   
