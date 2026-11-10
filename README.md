@@ -16,7 +16,7 @@ My professional background includes cloud engineering, technical research, and g
 - Security Auditing and Compliance
 - Vulnerability and Third-Party Risk Management
 
-## Featured Projects
+## Projects
 
 ### Cybersecurity GRC Portfolio
 
